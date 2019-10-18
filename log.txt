@@ -1,0 +1,4 @@
+2019-10-18 12:36:45:10S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main main:Launching Cognizant Intelligent Test Scripter IDE
+2019-10-18 12:36:48:10S +0530 [INFO] com.cognizant.cognizantits.engine.support.reflect.ClassFinder checkJarFile:Finding Commands in H:\CITS 1.2\lib\cognizant-intelligent-test-scripter-engine-1.2.jar
+2019-10-18 12:37:00:10S +0530 [INFO] com.cognizant.cognizantits.engine.drivers.ChromeEmulators load:Loading ChromeEmulators from file
+2019-10-18 13:08:08:10S +0530 [INFO] com.cognizant.cognizantits.ide.main.Main finish:Cognizant Intelligent Test Scripter IDE has been Terminated - [ Total Time : 00:31:23.377 ]
